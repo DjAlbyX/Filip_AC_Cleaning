@@ -1,0 +1,19 @@
+.appointment,
+.guestAppointment,
+.guestRegister {
+    justify-content: center;
+    display: grid;
+}
+
+.guestRegister {
+    font-size: x-small;
+}
+
+#checkAge {
+    width: 40px;
+}
+
+.register {
+    cursor: pointer;
+    color: blue;
+}

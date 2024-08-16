@@ -1,0 +1,5 @@
+.registerView {
+    justify-content: center;
+    display: grid;
+    gap: 5px;
+}

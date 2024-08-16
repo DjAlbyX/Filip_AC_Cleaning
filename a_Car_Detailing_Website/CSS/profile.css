@@ -1,0 +1,20 @@
+.profileInfo {
+    justify-content: center;
+    display: grid;
+}
+
+.table3,
+.td3,
+.tr3,
+.th3 {
+    display: grid;
+    width: 35vh;
+    border-collapse: collapse;
+}
+
+.th3,
+.td3 {
+    border: 1px solid white;
+    display: grid;
+    padding: 4px;
+}
